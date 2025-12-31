@@ -1,0 +1,7 @@
+{
+  "name": "Virginia Gudino - Neuro-2026 Hub",
+  "description": "A premium transformation platform for the 2026 New Year campaign focusing on biological productivity and neuroscience-backed personal growth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
